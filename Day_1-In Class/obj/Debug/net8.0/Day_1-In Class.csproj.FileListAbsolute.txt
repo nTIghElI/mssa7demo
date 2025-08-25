@@ -1,0 +1,15 @@
+c:\GitHub\mssa7demo\Day_1-In Class\bin\Debug\net8.0\Day_1-In Class.exe
+c:\GitHub\mssa7demo\Day_1-In Class\bin\Debug\net8.0\Day_1-In Class.deps.json
+c:\GitHub\mssa7demo\Day_1-In Class\bin\Debug\net8.0\Day_1-In Class.runtimeconfig.json
+c:\GitHub\mssa7demo\Day_1-In Class\bin\Debug\net8.0\Day_1-In Class.dll
+c:\GitHub\mssa7demo\Day_1-In Class\bin\Debug\net8.0\Day_1-In Class.pdb
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.GeneratedMSBuildEditorConfig.editorconfig
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.AssemblyInfoInputs.cache
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.AssemblyInfo.cs
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.csproj.CoreCompileInputs.cache
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.sourcelink.json
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.dll
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\refint\Day_1-In Class.dll
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.pdb
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\Day_1-In Class.genruntimeconfig.cache
+c:\GitHub\mssa7demo\Day_1-In Class\obj\Debug\net8.0\ref\Day_1-In Class.dll
