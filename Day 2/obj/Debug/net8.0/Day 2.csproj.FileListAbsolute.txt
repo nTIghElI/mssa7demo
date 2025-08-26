@@ -1,0 +1,15 @@
+C:\GitHub\mssa7demo\Day 2\bin\Debug\net8.0\Day 2.exe
+C:\GitHub\mssa7demo\Day 2\bin\Debug\net8.0\Day 2.deps.json
+C:\GitHub\mssa7demo\Day 2\bin\Debug\net8.0\Day 2.runtimeconfig.json
+C:\GitHub\mssa7demo\Day 2\bin\Debug\net8.0\Day 2.dll
+C:\GitHub\mssa7demo\Day 2\bin\Debug\net8.0\Day 2.pdb
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfoInputs.cache
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfo.cs
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.csproj.CoreCompileInputs.cache
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.sourcelink.json
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.dll
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\refint\Day 2.dll
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.pdb
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\Day 2.genruntimeconfig.cache
+C:\GitHub\mssa7demo\Day 2\obj\Debug\net8.0\ref\Day 2.dll

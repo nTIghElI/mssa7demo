@@ -1,0 +1,15 @@
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\bin\Debug\net8.0\CashRegisterApp.exe
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\bin\Debug\net8.0\CashRegisterApp.deps.json
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\bin\Debug\net8.0\CashRegisterApp.runtimeconfig.json
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\bin\Debug\net8.0\CashRegisterApp.dll
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\bin\Debug\net8.0\CashRegisterApp.pdb
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.AssemblyInfoInputs.cache
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.AssemblyInfo.cs
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.csproj.CoreCompileInputs.cache
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.sourcelink.json
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.dll
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\refint\CashRegisterApp.dll
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.pdb
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\CashRegisterApp.genruntimeconfig.cache
+C:\GitHub\mssa7demo\Day 2\CashRegisterApp\obj\Debug\net8.0\ref\CashRegisterApp.dll
