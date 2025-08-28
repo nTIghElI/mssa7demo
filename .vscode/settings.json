@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "Day_1-In Class.sln"
+    "dotnet.defaultSolution": "Day_1-In Class.sln",
+    "CodeGPT.apiKey": "Ollama"
 }
