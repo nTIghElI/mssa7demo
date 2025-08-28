@@ -7,7 +7,7 @@ public class BankCustomer
     private static int s_nextCustomerId;
     private string _firstName = "Tim";
     private string _lastName = "Shao";
-    public string CustomerId { get; private set; }
+    public readonly string CustomerId;
 
     static BankCustomer()
     {
