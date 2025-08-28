@@ -1,0 +1,15 @@
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.AssemblyInfoInputs.cache
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.AssemblyInfo.cs
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.csproj.CoreCompileInputs.cache
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.sourcelink.json
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\bin\Debug\net9.0\Classes_M2.exe
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\bin\Debug\net9.0\Classes_M2.deps.json
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\bin\Debug\net9.0\Classes_M2.runtimeconfig.json
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\bin\Debug\net9.0\Classes_M2.dll
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\bin\Debug\net9.0\Classes_M2.pdb
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.dll
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\refint\Classes_M2.dll
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.pdb
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\Classes_M2.genruntimeconfig.cache
+C:\GitHub\mssa7demo\Day 3\Classes_M2\Solution\obj\Debug\net9.0\ref\Classes_M2.dll

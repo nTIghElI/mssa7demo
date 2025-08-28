@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\mssa7demo\\Day_1-In Class\\Day_1-In Class.csproj": {}
+    "C:\\GitHub\\mssa7demo\\Day 3\\Day 3.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\mssa7demo\\Day_1-In Class\\Day_1-In Class.csproj": {
+    "C:\\GitHub\\mssa7demo\\Day 3\\Day 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\mssa7demo\\Day_1-In Class\\Day_1-In Class.csproj",
-        "projectName": "Day_1-In Class",
-        "projectPath": "C:\\GitHub\\mssa7demo\\Day_1-In Class\\Day_1-In Class.csproj",
+        "projectUniqueName": "C:\\GitHub\\mssa7demo\\Day 3\\Day 3.csproj",
+        "projectName": "Day 3",
+        "projectPath": "C:\\GitHub\\mssa7demo\\Day 3\\Day 3.csproj",
         "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\mssa7demo\\Day_1-In Class\\obj\\",
+        "outputPath": "C:\\GitHub\\mssa7demo\\Day 3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
